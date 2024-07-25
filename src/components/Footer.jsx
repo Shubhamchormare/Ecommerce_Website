@@ -7,9 +7,9 @@ const Footer = () => {
         <div className="d-flex align-items-center justify-content-center pb-5">
           <div className="col-md-6">
             <p className="mb-3 mb-md-0">Made with ❤️ by {" "}
-              <a  href="https://github.com/rohitnaikawadi26" className="text-decoration-underline text-dark fs-5" target="_blank" rel="noreferrer">Rohit Naikawadi</a>
+              <a  href="https://github.com/Shubhamchormare" className="text-decoration-underline text-dark fs-5" target="_blank" rel="noreferrer">Shubham Chormare</a>
             </p>
-            <a className="text-dark fs-4" href="https://github.com/rohitnaikawadi26" target="_blank" rel="noreferrer">
+            <a className="text-dark fs-4" href="https://github.com/Shubhamchormare" target="_blank" rel="noreferrer">
               <i className="fa fa-github"></i>
             </a>
           </div>
